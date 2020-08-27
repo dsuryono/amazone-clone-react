@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "dsuryono-amzon-clone-react",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

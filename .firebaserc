@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "dsuryono-portfolios"
+  },
+  "targets": {
+    "dsuryono-portfolios": {
+      "hosting": {
+        "dsuryono-portfolios": [
+          "dsuryono-amzon-clone-react"
+        ]
+      }
+    }
+  }
+}
